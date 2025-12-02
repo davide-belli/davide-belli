@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Senior ML Research Engineer at Qualcomm AI. 🔭   
+I am a Staff ML Researcher at Qualcomm AI. 🔭   
 I am currently working on LLM efficiency and Agentic AI. 💬
 
 I previously worked on: 
@@ -20,7 +20,7 @@ I previously worked on:
  - Object detection in visual question answering:
    - [Adding Object Detection Skills to Visual Dialogue Agents](https://link.springer.com/chapter/10.1007/978-3-030-11018-5_17) (*ECCV 2018 workshop*)
 
-The repositories in this GitHub profile are 6+ years old, covering research and coursework projects from my MSc and BSc, so they are not representative of the quality of the code I write these days.
+The repositories in this GitHub profile are 6+ years old, covering research and coursework projects from my MSc and BSc. They are not representative of the quality of the code I write these days.
 
 <!--
 **davide-belli/davide-belli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
