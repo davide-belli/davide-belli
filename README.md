@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I am a Staff ML Researcher at Qualcomm AI. 🔭   
-I am currently working on LLM efficiency and Agentic AI. 💬
+I am currently working on LLM efficiency and Agentic AI. 💬  
+Check out my [Personal Website](https://davide-belli.github.io)!
 
 I previously worked on: 
  - LLM agents and function calling:
