@@ -7,6 +7,7 @@ Check out my [Personal Website](https://davide-belli.github.io)!
 I previously worked on: 
  - LLM agents and function calling:
    -  [Dynamic Tool Dependency Retrieval for Efficient Function Calling](https://arxiv.org/pdf/2512.17052) (*ACL 2026*) and (*AAAI 2026 workshop, Oral*)
+   -  [When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems]() (*Under Review*)
  - LLM sparsity and cache efficiency:
    - [Efficient LLM Inference using Dynamic Input Pruning and Cache-Aware Masking](https://arxiv.org/pdf/2412.01380) (*MLSys 2025*)
  - Machine Learning for GNSS localisation:
